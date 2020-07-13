@@ -50,22 +50,7 @@ public class Test {
 		
 		//Swap
 		
-		a=a+b;
-		b=a-b;
-		a=a-b;
 		
-		
-		a=40, b=2
-				
-		1st: a=42
-		2nd: b=42-2=40
-		3rd: a=42-40=2
-		
-		@dataprovider(browser)
-		@Test
-		
-		testng.xml
-		<>
 		
 }
 	
